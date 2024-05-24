@@ -1,7 +1,7 @@
 {
     "jogadoras": [
         {"id": 1, "nome": "Ana Luiza Berto", "numero": 5, "posição": "Levantadora", "altura": 1.84, "idade": 2006, "foto": "https://volleybox.net/media/upload/players/16868533756ndx5.png"},
-        {"id": 2, "nome": "Kenya Malachias", "numero": 13, "posição": "Levantadora", "altura": 1.85, "idade": 2000, "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS04802g-in7k7qF9OnaQ_s7dxtlJgojK5UsA&s"},
+        {"id": 2, "nome": "Kenya Malachias", "numero": 13, "posição": "Levantadora", "altura": 1.85, "idade": 2000, "foto": "https://volleybox.net/media/upload/players/1635121765BFuJ0.png"},
         {"id": 3, "nome": "Giovana Gasparini", "numero": 22, "posição": "Levantadora", "altura": 1.75, "idade": 1994, "foto": "https://volleybox.net/media/upload/players/1680560168a838d.png"},
         {"id": 4, "nome": "Tifanny Abreu", "numero": 9, "posição": "Ponteira", "altura": 1.92, "idade": 1984, "foto": "https://volleybox.net/media/upload/players/16805600692v9sI.png"},
         {"id": 5, "nome": "Lorenne Teixeira", "numero": 11, "posição": "Oposta", "altura": 1.84, "idade": 1996, "foto": "https://volleybox.net/media/upload/players/1691972906jcr7F.png"},
