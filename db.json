@@ -18,7 +18,7 @@
         {"id": 16, "nome": "Camila Brait", "numero": 18, "posição": "Líbero", "altura": 1.70, "idade": 1988, "foto": "https://volleybox.net/media/upload/players/1677951235i7msl.png"}
     ],
 
-    "comissão técnica": [
+    "comissão-técnica": [
         {"id": 1, "nome": "Luizomar de Moura", "função": "Treinador principal", "foto": "https://volleybox.net/media/upload/players/16902950287hJBx.png"},
         {"id": 2, "nome": "Henrique Modenesi", "função": "Auxiliar técnico", "foto": "https://volleybox.net/media/upload/players/1700246892LBvw4.png"},
         {"id": 3, "nome": "Jefferson Arosti", "função": "Auxiliar técnico", "foto": "https://volleybox.net/media/upload/players/16916194682qZze.png"},
